@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #     s.osx.frameworks = 'CoreServices', 'Security', 'SystemConfiguration', 'ApplicationServices', 'Quartz', 'QuartzCore', 'CoreFoundation',  'Foundation'
 
 	s.dependency 'FishLampCore'
-	s.dependency 'FishLampStrings'
+	
 	s.source_files = 'Classes/**/*.{h,m}'
 
     
